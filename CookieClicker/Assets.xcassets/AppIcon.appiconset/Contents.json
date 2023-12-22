@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2023-12-21 12.31.42 - A minimalistic app icon for a competitive clicker game, featuring a stylized timer symbol. The color palette includes mist green, grey, and white, cre.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
