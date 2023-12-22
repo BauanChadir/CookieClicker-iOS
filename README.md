@@ -1,2 +1,2 @@
-# BreakManager
-Taking breaks is important - might as well manage them! This iOS-App shall help you with all the management you need for your next big exam.
+# CookieClicker
+This is my first iOS / Swift project. It's a basic CookieClicker that is like every other one! I am still learning so please forigve the catastrophc code (:
